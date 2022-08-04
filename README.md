@@ -10,7 +10,7 @@ For the original thread on AV Forums which helped in creating this guide please 
 
 For more information on the Homebrew Channel please go here https://github.com/webosbrew/webos-homebrew-channel
 
-For more information on how the rooting process works from a technical point of view or if you haven't updated your TV yet then please go here https://github.com/RootMyTV/RootMyTV.github.io/
+For more information on how the rooting process works from a technical point of view or if you haven't updated your TV yet then please go to https://github.com/RootMyTV/RootMyTV.github.io/
 
 For the background on why I even did this then please click here for the [Background](https://github.com/reprodev/LGTV-Firmware-Downgrade/edit/main/README.md#background)
 
